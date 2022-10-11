@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simone Almeida
 - 👀 I’m interested in learning programming
 - 🌱 I'm learning html, css, javascript and java
-- 📫 To reach me, my main contact is via email: orangeintegral@gmail.com
+- 📫 To reach me, my main contact is via email: laranjaintegral@gmail.com
 
 
 
